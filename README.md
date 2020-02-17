@@ -7,7 +7,8 @@ _**WebStorm**_ - https://www.jetbrains.com/student/
 
 **_Step 1_**: Download the provided links we will use in the semester 
 
-**_Step 2_**: Create Github account using your UCID
+**_Step 2_**: Create Github account using your UCID and email
+
 Github - https://github.com/join
 
 
@@ -33,7 +34,7 @@ the path** ---- click **Test** to make sure Webstorm is connected to Git. If Git
 **Create Git Repository**. Select the directory file we made (A03) and click **OK**
 
 
-**_Step 8 _**: Now we need to Commit to the changes to GIT, so select **VCS** --- select **Git** -> Click on the index 
+**_Step 8_**: Now we need to Commit to the changes to GIT, so select **VCS** --- select **Git** -> Click on the index 
 and README files --- add a Commit comment ---- **press Commit** (Since its the first commit ever, a dialog box will open
 to set the Git username and email. Use your NJIT email. Click Set --- then select Commit)
  
