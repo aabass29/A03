@@ -33,7 +33,7 @@ the path** ---- click **Test** to make sure Webstorm is connected to Git. If Git
 **Create Git Repository**. Select the directory file we made (A03) and click **OK**
 
 
-**_Step 8 _**: Now we need to Commit to the changes to GIT, so select **VCS** --- select **Git** -> Click on the index 
+**Step 8 **: Now we need to Commit to the changes to GIT, so select **VCS** --- select **Git** -> Click on the index 
 and README files --- add a Commit comment ---- **press Commit** (Since its the first commit ever, a dialog box will open
 to set the Git username and email. Use your NJIT email. Click Set --- then select Commit)
  
