@@ -1,7 +1,49 @@
+Tutorial on Git, Github & Webstorm
+
+Step 1: Download the provided links we will use in the semester 
+
+Git - https://git-scm.com/downloads
+
+WebStorm - https://www.jetbrains.com/student/  
+
+Step 2: Create Github account using your UCID
+
+Github - https://github.com/join
+
+Step 3: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Definitions
 
 GIT - An open source version control system
-
 
 GITHUB - a Git repository hosting service, but it adds many of its own features. Provides a Web-based graphical interface 
 
@@ -17,7 +59,7 @@ Pull -  used to fetch and download content from a remote repository and immediat
 
 Branch - is a unique set of code changes with a unique name.
 
-Merge -
+Merge - takes the contents of a source branch and integrates them with a target branch.
 
 Merge Conflict - happen when you merge branches that have competing commits,
 
